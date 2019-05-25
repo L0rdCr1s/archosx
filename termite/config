@@ -1,0 +1,45 @@
+# Solarized dark color scheme
+
+
+[colors]
+# special
+foreground      = #2A2A2A
+foreground_bold = #0a0a0a
+cursor          = #0a0a0a
+background      = #FFFFFF
+
+
+color0 =  #191919
+color1 =  #191919
+color2 =  #ffb600
+color3 =  #191919
+color4 =  #191919
+color5 =  #191919
+color6 =  #191919
+color7 =  #191919
+color8 =  #191919
+color9 =  #191919
+color10 =  #191919
+color11 =  #191919
+color12 =  #191919
+color13 =  #191919
+color14 =  #191919
+color15 =  #191919
+
+[options]
+#font = Meslo LG S for Powerline 11
+font = monaco bold 9
+#font = Hack 11
+#scroll_on_output = false
+#scroll_on_keystroke = true
+#audible_bell = false
+mouse_autohide = true
+allow_bold = true
+dynamic_title = true
+#urgent_on_bell = true
+clickable_url = true
+scrollback_lines = 10000
+search_wrap = true
+icon_name = terminal
+
+
