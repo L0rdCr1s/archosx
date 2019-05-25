@@ -1,2 +1,2 @@
 # archosx screenshot
-![Alt text](./reddit.png.jpg?raw=true "Optional Title")
+![Alt text](./reddit.png?raw=true "Optional Title")
