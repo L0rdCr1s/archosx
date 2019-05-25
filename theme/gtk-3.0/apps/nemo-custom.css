@@ -1,0 +1,13 @@
+NemoPlacesTreeView {
+    -NemoPlacesTreeView-disk-full-bg-color: #d9d9d9;
+    -NemoPlacesTreeView-disk-full-fg-color: #4a90d9 ;
+    -NemoPlacesTreeView-disk-full-bar-width: 2px;
+    -NemoPlacesTreeView-disk-full-bar-radius: 1px;
+    -NemoPlacesTreeView-disk-full-bottom-padding: 1px;
+    -NemoPlacesTreeView-disk-full-max-length: 70px;
+}
+
+NemoPlacesTreeView:selected {
+    -NemoPlacesTreeView-disk-full-bg-color: #d9d9d9;
+    -NemoPlacesTreeView-disk-full-fg-color: shade(#4a90d9,0.5) ;
+}
