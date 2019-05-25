@@ -1,0 +1,31 @@
+ #nav-bar {
+    background: transparent !important; 
+    border: none !important;
+    box-shadow: none !important;
+	margin-top: -1px !important; 
+	margin-bottom: -1px !important;
+	-moz-box-ordinal-group: 1 !important;
+}
+#PersonalToolbar { /* bookmarks toolbar */
+	-moz-box-ordinal-group: 1 !important;
+	background: transparent !important;	
+	border: none !important;
+	box-shadow: none !important;
+}
+#TabsToolbar { /* tab bar */
+	-moz-box-ordinal-group: 4 !important;
+	padding-top: 0 !important;
+	background: transparent !important;	
+	border: none !important;
+	box-shadow: none !important;
+	margin-top:0px!important;
+	--tab-separator-image: none !important;
+}
+#navigator-toolbox::after {
+	border-bottom: 0px !important;
+}
+tab {border: none !important;}
+#urlbar {border: none !important;}
+#toolbar-menubar {border: none !important;}
+.tab-line { display: none !important; }
+.tab-separator { display: none !important; }
